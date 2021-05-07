@@ -1,0 +1,31 @@
+.Header {
+    padding: 0.01vh;
+    overflow: hidden;
+    background-color: #1B1B1E;
+}
+
+.Title {
+    float: left;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-left: 0.5em;
+    color: white;
+}
+
+.buttonLeft {
+    float: right;
+}
+
+.headerButton {
+    float: left;
+    font-size: 1.5rem;
+    margin-right: 0.5em;
+    padding: 12px;
+    margin-top: 0.6rem;
+    border-radius: 5%;
+    color: white;
+}
+
+.headerButton:hover {
+    background-color: purple;
+}
